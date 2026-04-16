@@ -1,0 +1,35 @@
+{
+  "name": "logiciel-de-gestion-scolaire",
+  "version": "1.0.0",
+  "description": "Projet initial de gestion scolaire.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamadsene1708/logiciel-de-gestion-scolaire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mamadsene1708/logiciel-de-gestion-scolaire/issues"
+  },
+  "homepage": "https://github.com/mamadsene1708/logiciel-de-gestion-scolaire#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
