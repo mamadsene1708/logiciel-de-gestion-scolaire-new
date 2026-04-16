@@ -14,16 +14,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mamadsene1708/logiciel-de-gestion-scolaire.git"
+    "url": "git+https://github.com/mamadsene1708/logiciel-de-gestion-scolaire-new.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/mamadsene1708/logiciel-de-gestion-scolaire/issues"
+    "url": "https://github.com/mamadsene1708/logiciel-de-gestion-scolaire-new/issues"
   },
-  "homepage": "https://github.com/mamadsene1708/logiciel-de-gestion-scolaire#readme",
+  "homepage": "https://github.com/mamadsene1708/logiciel-de-gestion-scolaire-new#readme",
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9"
+  },
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
